@@ -4,7 +4,7 @@ function containsDuplicate(nums: number[]): boolean {
         if (map.has(nums[i])) {
             return true;
         }
-        map.set(nums[i],1)
+        map.set(nums[i],0)
     }
     return false;
 };
