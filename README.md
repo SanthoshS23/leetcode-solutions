@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/SanthoshS23/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SanthoshS23/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -30,5 +31,6 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/SanthoshS23/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SanthoshS23/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
