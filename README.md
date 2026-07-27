@@ -49,8 +49,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0344-reverse-string](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
