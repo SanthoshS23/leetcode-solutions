@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SanthoshS23/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/SanthoshS23/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SanthoshS23/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -29,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0344-reverse-string](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/SanthoshS23/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
